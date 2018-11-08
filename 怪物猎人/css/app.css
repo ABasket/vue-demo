@@ -1,0 +1,31 @@
+li{
+		list-style: none;
+	}
+		#app div{
+			margin:10px 0;
+		}
+		.jindutiao{
+			width: 100px;
+			height: 10px;
+			font-size: 2px;
+			
+		}
+		.box{
+			width: 300px;
+			
+			display: flex;
+		}
+		.box button{
+			margin: 0 auto;
+
+		}
+		.guaiwu{
+			color:red;
+			background-color: pink;
+			width: 200px;
+		}
+		.renwu{
+			color:black;
+			background-color: green;
+			width: 200px;
+		}
